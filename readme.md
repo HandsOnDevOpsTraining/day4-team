@@ -1,2 +1,1 @@
-:wq!
-may added her chnages to commit
+May added her chnages to commit
