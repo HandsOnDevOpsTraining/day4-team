@@ -1,1 +1,6 @@
 i am trying to troubleshoot this
+
+Below should be the sequence
+git fetch origin
+git status
+git pull
